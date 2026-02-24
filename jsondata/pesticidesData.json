@@ -1,0 +1,258 @@
+[
+  {
+    "pesticide_name": "Sulfur",
+    "application_rate": "2-3 kg/ha",
+    "target_pest": "Powdery Mildew",
+    "safety_caution": "Avoid inhalation; use protective clothing."
+  },
+  {
+    "pesticide_name": "Triadimefon",
+    "application_rate": "0.5-1 kg/ha",
+    "target_pest": "Powdery Mildew, Rust",
+    "safety_caution": "Wear protective gloves and mask; avoid contact with skin and eyes."
+  },
+  {
+    "pesticide_name": "Mancozeb",
+    "application_rate": "1.5-2.5 kg/ha",
+    "target_pest": "Fungal diseases like Leaf Spot, Downy Mildew",
+    "safety_caution": "Use proper protective equipment; avoid contact with skin."
+  },
+  {
+    "pesticide_name": "Copper oxychloride",
+    "application_rate": "2-3 kg/ha",
+    "target_pest": "Fungal diseases like Leaf Spot, Blister Blight",
+    "safety_caution": "Avoid inhalation; wear a mask and gloves."
+  },
+  {
+    "pesticide_name": "Carbendazim",
+    "application_rate": "1-2 kg/ha",
+    "target_pest": "Anthracnose, Leaf Spot",
+    "safety_caution": "Avoid prolonged contact with skin; wear protective clothing."
+  },
+  {
+    "pesticide_name": "Chlorothalonil",
+    "application_rate": "2-3 kg/ha",
+    "target_pest": "Fungal diseases like Anthracnose, Late Blight",
+    "safety_caution": "Use protective eyewear and clothing; avoid skin contact."
+  },
+  {
+    "pesticide_name": "Thiophanate-methyl",
+    "application_rate": "1-2 kg/ha",
+    "target_pest": "Anthracnose, Leaf Spot",
+    "safety_caution": "Wear protective gloves; avoid inhalation."
+  },
+  {
+    "pesticide_name": "Trifloxystrobin",
+    "application_rate": "0.5-1 kg/ha",
+    "target_pest": "Powdery Mildew, Rust",
+    "safety_caution": "Avoid skin and eye contact; use proper protection."
+  },
+  {
+    "pesticide_name": "Tebuconazole",
+    "application_rate": "0.5-1.5 kg/ha",
+    "target_pest": "Powdery Mildew, Fungal diseases",
+    "safety_caution": "Use gloves and mask; avoid skin contact."
+  },
+  {
+    "pesticide_name": "Imidacloprid",
+    "application_rate": "0.25-0.5 kg/ha",
+    "target_pest": "Insect vectors like aphids, leafhoppers",
+    "safety_caution": "Avoid contact with eyes and skin; wash hands after use."
+  },
+  {
+    "pesticide_name": "Thiamethoxam",
+    "application_rate": "0.2-0.4 kg/ha",
+    "target_pest": "Insect vectors like aphids, leafhoppers",
+    "safety_caution": "Wear protective gear; avoid inhalation."
+  },
+  {
+    "pesticide_name": "Metalaxyl",
+    "application_rate": "1-1.5 kg/ha",
+    "target_pest": "Downy Mildew, Late Blight",
+    "safety_caution": "Wear a mask and gloves; avoid contact with skin."
+  },
+  {
+    "pesticide_name": "Dimethomorph",
+    "application_rate": "0.5-1 kg/ha",
+    "target_pest": "Downy Mildew, Fungal diseases",
+    "safety_caution": "Avoid contact with skin and eyes; wear protective gear."
+  },
+  {
+    "pesticide_name": "Propineb",
+    "application_rate": "2-3 kg/ha",
+    "target_pest": "Blister Blight, Fungal diseases",
+    "safety_caution": "Use gloves and goggles; avoid inhalation."
+  },
+  {
+    "pesticide_name": "Thiram",
+    "application_rate": "2-3 kg/ha",
+    "target_pest": "Root Rot, Seed-borne diseases",
+    "safety_caution": "Avoid inhalation and skin contact; wear protective clothing."
+  },
+  {
+    "pesticide_name": "Captan",
+    "application_rate": "1-2 kg/ha",
+    "target_pest": "Root Rot, Seed-borne diseases",
+    "safety_caution": "Wear protective gear; avoid prolonged exposure."
+  },
+  {
+    "pesticide_name": "Tricyclazole",
+    "application_rate": "0.3-0.6 kg/ha",
+    "target_pest": "Rice Blast",
+    "safety_caution": "Wear mask and gloves; avoid contact with skin."
+  },
+  {
+    "pesticide_name": "Streptomycin sulfate",
+    "application_rate": "200-250 ppm",
+    "target_pest": "Bacterial diseases like Bacterial Leaf Blight",
+    "safety_caution": "Avoid contact with skin and eyes; wear protective equipment."
+  },
+  {
+    "pesticide_name": "Kasugamycin",
+    "application_rate": "0.5-1 kg/ha",
+    "target_pest": "Bacterial Leaf Blight",
+    "safety_caution": "Wear protective clothing; avoid contact with skin."
+  },
+  [
+    {
+      "pesticide_name": "Chlorothalonil",
+      "app_rate": "1.5-2.0 kg/ha",
+      "target_pest": "Fungus causing late blight",
+      "safety_precaution": "Wear protective clothing and eye protection"
+    },
+    {
+      "pesticide_name": "Copper-based fungicides",
+      "app_rate": "2-3 kg/ha",
+      "target_pest": "Fungus causing late blight",
+      "safety_precaution": "Avoid skin contact, use face mask"
+    },
+    {
+      "pesticide_name": "Imidacloprid",
+      "app_rate": "0.2-0.3 L/ha",
+      "target_pest": "Whiteflies (vector control)",
+      "safety_precaution": "Wear gloves, wash hands after application"
+    },
+    {
+      "pesticide_name": "Thiram",
+      "app_rate": "2-3 kg/ha",
+      "target_pest": "Fungus causing smut",
+      "safety_precaution": "Avoid inhalation, use protective mask"
+    },
+    {
+      "pesticide_name": "Carbendazim",
+      "app_rate": "1-2 kg/ha",
+      "target_pest": "Fungus causing smut",
+      "safety_precaution": "Wear gloves, avoid skin contact"
+    },
+    {
+      "pesticide_name": "Mancozeb",
+      "app_rate": "2-3 kg/ha",
+      "target_pest": "Fungus causing downy mildew",
+      "safety_precaution": "Wear a respirator and protective eyewear"
+    },
+    {
+      "pesticide_name": "Metalaxyl",
+      "app_rate": "0.25-0.5 kg/ha",
+      "target_pest": "Fungus causing downy mildew",
+      "safety_precaution": "Use gloves and a face mask"
+    },
+    {
+      "pesticide_name": "Triadimefon",
+      "app_rate": "0.5-1.0 kg/ha",
+      "target_pest": "Fungus causing powdery mildew",
+      "safety_precaution": "Avoid inhalation, use face mask"
+    },
+    {
+      "pesticide_name": "Mancozeb",
+      "app_rate": "2-3 kg/ha",
+      "target_pest": "Fungus causing leaf spot",
+      "safety_precaution": "Wear gloves and avoid inhaling dust"
+    },
+    [
+      {
+        "pesticide_name": "Propiconazole",
+        "app_rate": "0.1-0.2 L/ha",
+        "target_pest": "Fungus causing rust",
+        "safety_precaution": "Wear protective clothing, avoid inhalation"
+      },
+      {
+        "pesticide_name": "Tebuconazole",
+        "app_rate": "0.25-0.35 L/ha",
+        "target_pest": "Fungus causing rust",
+        "safety_precaution": "Avoid contact with skin, wear gloves"
+      },
+      {
+        "pesticide_name": "Azoxystrobin",
+        "app_rate": "0.15-0.25 L/ha",
+        "target_pest": "Fungus causing mildew",
+        "safety_precaution": "Wash hands after use, use respiratory protection"
+      },
+      {
+        "pesticide_name": "Tricyclazole",
+        "app_rate": "0.5-0.75 kg/ha",
+        "target_pest": "Fungus causing blast",
+        "safety_precaution": "Avoid direct contact with the pesticide"
+      },
+      {
+        "pesticide_name": "Iprodione",
+        "app_rate": "0.5-1.0 L/ha",
+        "target_pest": "Fungus causing blast",
+        "safety_precaution": "Wear gloves, wash skin after use"
+      },
+      {
+        "pesticide_name": "Carbendazim( For rice blast)",
+        "app_rate": "0.5-1.0 kg/ha",
+        "target_pest": "Fungus causing blast",
+        "safety_precaution": "Wear full-body protection, avoid inhalation"
+      },
+      {
+        "pesticide_name": "Streptomycin",
+        "app_rate": "100-200 ppm",
+        "target_pest": "Bacteria causing leaf blight",
+        "safety_precaution": "Use eye protection, avoid ingestion"
+      },
+      {
+        "pesticide_name": "Copper-based bactericides",
+        "app_rate": "1-2 kg/ha",
+        "target_pest": "Bacteria causing leaf blight",
+        "safety_precaution": "Avoid skin contact, use face mask"
+      },
+      {
+        "pesticide_name": "Chlorothalonil",
+        "app_rate": "1-1.5 L/ha",
+        "target_pest": "Fungus causing blight",
+        "safety_precaution": "Use eye protection, avoid skin contact"
+      },
+      {
+        "pesticide_name": "Sulfur",
+        "app_rate": "2-3 kg/ha",
+        "target_pest": "Fungus causing mildew",
+        "safety_precaution": "Wear goggles and a respirator"
+      },
+      {
+        "pesticide_name": "Thiram",
+        "app_rate": "2-3 kg/ha",
+        "target_pest": "Fungus causing smut",
+        "safety_precaution": "Avoid inhalation, use protective mask"
+      },
+      {
+        "pesticide_name": "Metalaxyl",
+        "app_rate": "0.25-0.5 kg/ha",
+        "target_pest": "Fungus causing mildew",
+        "safety_precaution": "Use protective gloves and face mask"
+      },
+      {
+        "pesticide_name": "Imidacloprid",
+        "app_rate": "0.2-0.3 L/ha",
+        "target_pest": "Insect vector (whiteflies)",
+        "safety_precaution": "Wear gloves, wash hands after application"
+      },
+      {
+        "pesticide_name": "Nematicides (Aldicarb, Fenamiphos)",
+        "app_rate": "2-3 kg/ha",
+        "target_pest": "Soil-borne nematodes",
+        "safety_precaution": "Avoid contact with skin, use respirator"
+      }
+    ]
+  ]
+]

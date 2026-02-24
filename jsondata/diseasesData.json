@@ -1,0 +1,207 @@
+[
+  {
+    "disease_name": "Wheat Rust",
+    "symptoms": "Rust-colored pustules on leaves and stems.",
+    "transmission_mode": "Wind-borne spores",
+    "prevalence_mode": "Use resistant varieties, fungicide application"
+  },
+  {
+    "disease_name": "Rice Blast",
+    "symptoms": "Gray-green lesions on leaves that turn into spindle-shaped spots.",
+    "transmission_mode": "Airborne spores, infected seeds",
+    "prevalence_mode": "Proper water management, resistant varieties, fungicide use"
+  },
+  {
+    "disease_name": "Bacterial Leaf Blight",
+    "symptoms": "Yellowing and drying of leaf tips, leaf blight.",
+    "transmission_mode": "Waterborne, infected seeds",
+    "prevalence_mode": "Resistant varieties, proper water management"
+  },
+  {
+    "disease_name": "Red Rot",
+    "symptoms": "Red lesions on the stem with white patches, leaf drying.",
+    "transmission_mode": "Infected soil, cuttings",
+    "prevalence_mode": "Use disease-free cuttings, crop rotation, fungicides"
+  },
+  {
+    "disease_name": "Smut",
+    "symptoms": "Black whip-like structures on plant shoots.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Crop rotation, fungicides"
+  },
+  {
+    "disease_name": "Stem Rot",
+    "symptoms": "Rotting of stem base leading to plant death.",
+    "transmission_mode": "Soil-borne fungus",
+    "prevalence_mode": "Crop rotation, soil treatment"
+  },
+  {
+    "disease_name": "Black Band Disease",
+    "symptoms": "Blackening of stem, leading to wilting.",
+    "transmission_mode": "Soil-borne, water splashes",
+    "prevalence_mode": "Resistant varieties, soil treatment"
+  },
+  {
+    "disease_name": "Ascochyta Blight",
+    "symptoms": "Dark brown spots on leaves and stems.",
+    "transmission_mode": "Infected seed, water splashes",
+    "prevalence_mode": "Use certified seeds, seed treatment, fungicides"
+  },
+  {
+    "disease_name": "Rust",
+    "symptoms": "Brown rust spots on leaves and stems.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Fungicide application, resistant varieties"
+  },
+  {
+    "disease_name": "White Rust",
+    "symptoms": "White blisters on leaves and stems.",
+    "transmission_mode": "Wind and rain-borne spores",
+    "prevalence_mode": "Fungicides, resistant varieties"
+  },
+  {
+    "disease_name": "Alternaria Blight",
+    "symptoms": "Dark spots on leaves and pods.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Fungicides, crop rotation"
+  },
+  {
+    "disease_name": "Cotton Wilt",
+    "symptoms": "Yellowing and wilting of leaves.",
+    "transmission_mode": "Soil-borne fungus",
+    "prevalence_mode": "Crop rotation, soil fumigation"
+  },
+  {
+    "disease_name": "Bacterial Blight",
+    "symptoms": "Water-soaked spots on leaves, blackening.",
+    "transmission_mode": "Water splashes, infected seeds",
+    "prevalence_mode": "Use certified seeds, fungicide application"
+  },
+  {
+    "disease_name": "Grain Mold",
+    "symptoms": "Discolored grains, moldy appearance.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Proper storage, fungicide treatment"
+  },
+  {
+    "disease_name": "Sorghum Smut",
+    "symptoms": "Black smut on grain heads.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Resistant varieties, seed treatment"
+  },
+  {
+    "disease_name": "Tikka Disease",
+    "symptoms": "Circular brown spots on leaves.",
+    "transmission_mode": "Infected seeds, airborne spores",
+    "prevalence_mode": "Seed treatment, fungicides"
+  },
+  {
+    "disease_name": "Downy Mildew",
+    "symptoms": "Yellow streaks on leaves, stunted growth.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Resistant varieties, fungicides"
+  },
+  {
+    "disease_name": "Ergot",
+    "symptoms": "Black fungal growth on grain heads.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Fungicides, seed treatment"
+  },
+  {
+    "disease_name": "Tobacco Mosaic Virus",
+    "symptoms": "Mosaic pattern on leaves, distorted growth.",
+    "transmission_mode": "Infected plants, mechanical contact",
+    "prevalence_mode": "Hygiene, use resistant varieties"
+  },
+  {
+    "disease_name": "Root Knot Nematode",
+    "symptoms": "Galls on roots, stunted growth.",
+    "transmission_mode": "Soil-borne nematodes",
+    "prevalence_mode": "Crop rotation, nematicides"
+  },
+  {
+    "disease_name": "Late Blight",
+    "symptoms": "Water-soaked spots on leaves and stems, blackened fruits.",
+    "transmission_mode": "Airborne spores, water splashes",
+    "prevalence_mode": "Fungicides, proper plant spacing"
+  },
+  {
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "symptoms": "Yellowing and curling of leaves, stunted growth.",
+    "transmission_mode": "Insect vectors (whiteflies)",
+    "prevalence_mode": "Resistant varieties, insect control"
+  },
+  {
+    "disease_name": "Onion Smut",
+    "symptoms": "Black powdery spots on leaves.",
+    "transmission_mode": "Soil-borne fungus",
+    "prevalence_mode": "Crop rotation, soil treatment"
+  },
+  {
+    "disease_name": "Tamarind Leaf Spot",
+    "symptoms": "Brown spots on leaves, leaf drop.",
+    "transmission_mode": "Water splashes, infected leaves",
+    "prevalence_mode": "Fungicide treatment"
+  },
+
+  {
+    "disease_name": "Powdery Mildew",
+    "symptoms": "White powdery growth on leaves and fruits.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Fungicide application, pruning"
+  },
+  {
+    "disease_name": "Leaf Spot",
+    "symptoms": "Brown spots on leaves, leaf drop.",
+    "transmission_mode": "Water splashes, infected leaves",
+    "prevalence_mode": "Fungicide treatment"
+  },
+  {
+    "disease_name": "Anthracnose",
+    "symptoms": "Sunken dark lesions on fruits and leaves.",
+    "transmission_mode": "Infected seeds, water splashes",
+    "prevalence_mode": "Use disease-free seeds, fungicides"
+  },
+  {
+    "disease_name": "Maize Streak Virus",
+    "symptoms": "Chlorotic streaks on leaves, stunted growth.",
+    "transmission_mode": "Insect vectors (leafhoppers)",
+    "prevalence_mode": "Resistant varieties, insect control"
+  },
+  {
+    "disease_name": "Blister Blight",
+    "symptoms": "Small blisters on young leaves and stems.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Pruning, fungicide sprays"
+  },
+  {
+    "disease_name": "Root Rot",
+    "symptoms": "Wilting and rotting of roots, yellowing of leaves.",
+    "transmission_mode": "Soil-borne fungus",
+    "prevalence_mode": "Soil treatment, pruning"
+  },
+  {
+    "disease_name": "Coffee Leaf Rust",
+    "symptoms": "Orange-yellow spots on the underside of leaves.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Fungicides, resistant varieties"
+  },
+  {
+    "disease_name": "Coffee Berry Disease",
+    "symptoms": "Dark sunken lesions on coffee berries, fruit drop.",
+    "transmission_mode": "Airborne spores",
+    "prevalence_mode": "Pruning, fungicide sprays"
+  },
+  {
+    "disease_name": "Potato Scab",
+    "symptoms": "Rough, corky patches on tubers.",
+    "transmission_mode": "Soil-borne bacteria",
+    "prevalence_mode": "Use disease-free seeds, crop rotation"
+  },
+  {
+    "disease_name": "Barley Yellow Dwarf Virus",
+    "symptoms": "Yellowing and stunting of plants, leaf necrosis.",
+    "transmission_mode": "Insect vectors (aphids)",
+    "prevalence_mode": "Resistant varieties, insect control"
+  }
+]

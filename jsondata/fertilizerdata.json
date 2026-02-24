@@ -1,0 +1,187 @@
+[
+  {
+    "fertilizer_name": "Urea",
+    "application_rate": "120-200 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/106162/wheat-wheat-spike-wheat-field-..."
+  },
+  {
+    "fertilizer_name": "DAP (Diammonium Phosphate)",
+    "application_rate": "50-100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://images.pexels.com/photos/106162/wheat-wheat-spike-wheat-field-..."
+  },
+  {
+    "fertilizer_name": "MOP (Muriate of Potash)",
+    "application_rate": "50-100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid contact with skin.",
+    "img_url": "https://images.pexels.com/photos/106162/wheat-wheat-spike-wheat-field-..."
+  },
+  {
+    "fertilizer_name": "Zinc Sulphate",
+    "application_rate": "25 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid contact with skin.",
+    "img_url": "https://images.pexels.com/photos/106162/wheat-wheat-spike-wheat-field-..."
+  },
+  {
+    "fertilizer_name": "Zinc",
+    "application_rate": "10 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid contact with skin.",
+    "img_url": "https://th.bing.com/th/id/OIP.qeFvUNnDQw2VmnPv-FNoAwHaE8?rs=1&pid=ImgD..."
+  },
+  {
+    "fertilizer_name": "Farmyard Manure (FYM)",
+    "application_rate": "10-15 tons/ha",
+    "physical_form": "Organic",
+    "storage_condition": "Dry and well-aerated",
+    "safety_caution": "Ensure it is well-decomposed.",
+    "img_url": "https://www.pulseaus.com.au/storage/app/uploads/public/569/9e3/e16/569..."
+  },
+  {
+    "fertilizer_name": "Green Manure",
+    "application_rate": "5 tons/ha",
+    "physical_form": "Organic",
+    "storage_condition": "Dry and well-aerated",
+    "safety_caution": "Ensure it is well-decomposed.",
+    "img_url": "https://www.sahapedia.org/sites/default/files/Jute-Species_Corchorus%2..."
+  },
+  {
+    "fertilizer_name": "SSP (Single Super Phosphate)",
+    "application_rate": "50-100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://www.sahapedia.org/sites/default/files/Jute-Species_Corchorus%2..."
+  },
+
+  {
+    "fertilizer_name": "Farmyard Manure (FYM)",
+    "application_rate": "5-10 tons/ha",
+    "physical_form": "Organic",
+    "storage_condition": "Dry and well-aerated",
+    "safety_caution": "Ensure it is well-decomposed.",
+    "img_url": "https://images.pexels.com/photos/2202175/pexels-photo-2202175.jpeg"
+  },
+  {
+    "fertilizer_name": "NPK (Nitrogen, Phosphorus, Potassium)",
+    "application_rate": "150 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://images.pexels.com/photos/164077/pexels-photo-164077.jpeg"
+  },
+  {
+    "fertilizer_name": "Compost",
+    "application_rate": "5-10 tons/ha",
+    "physical_form": "Organic",
+    "storage_condition": "Dry and well-aerated",
+    "safety_caution": "Ensure it is well-decomposed.",
+    "img_url": "https://images.pexels.com/photos/164077/pexels-photo-164077.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea (Tea)",
+    "application_rate": "50-100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/4346884/pexels-photo-4346884.jpeg"
+  },
+  {
+    "fertilizer_name": "NPK (Nitrogen, Phosphorus, Potassium) (Tea)",
+    "application_rate": "100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://images.pexels.com/photos/4346884/pexels-photo-4346884.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea (Coffee)",
+    "application_rate": "80-100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/561886/pexels-photo-561886.jpeg"
+  },
+  {
+    "fertilizer_name": "NPK (Nitrogen, Phosphorus, Potassium) (Coffee)",
+    "application_rate": "120 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://images.pexels.com/photos/561886/pexels-photo-561886.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea (Potato)",
+    "application_rate": "80-100 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/1598580/pexels-photo-1598580.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea (Barley)",
+    "application_rate": "70-90 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/2399634/pexels-photo-2399634.jpeg"
+  },
+  {
+    "fertilizer_name": "NPK (Nitrogen, Phosphorus, Potassium) (Barley)",
+    "application_rate": "80 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://images.pexels.com/photos/2399634/pexels-photo-2399634.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea 4",
+    "application_rate": "40-60 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/1561008/pexels-photo-1561008.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea 2",
+    "application_rate": "80 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/2824396/pexels-photo-2824396.jpeg"
+  },
+  {
+    "fertilizer_name": "Urea 4",
+    "application_rate": "70 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Avoid inhalation; use gloves.",
+    "img_url": "https://images.pexels.com/photos/1585798/pexels-photo-1585798.jpeg"
+  },
+  {
+    "fertilizer_name": "NPK 4",
+    "application_rate": "90 kg/ha",
+    "physical_form": "Granular",
+    "storage_condition": "Cool, dry place",
+    "safety_caution": "Keep away from moisture.",
+    "img_url": "https://images.pexels.com/photos/1585798/pexels-photo-1585798.jpeg"
+  },
+  {
+    "fertilizer_name": "Compost 3",
+    "application_rate": "10-15 tons/ha",
+    "physical_form": "Organic",
+    "storage_condition": "Dry and well-aerated",
+    "safety_caution": "Ensure it is well-decomposed.",
+    "img_url": "https://images.pexels.com/photos/1585798/pexels-photo-1585798.jpeg"
+  }
+]

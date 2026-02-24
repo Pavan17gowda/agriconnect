@@ -1,0 +1,156 @@
+[
+  {
+    "crop_name": "Wheat",
+    "sowing_period": "October to December",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "March to May",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Rice",
+    "sowing_period": "June to July",
+    "duration_of_crop": "3-6 months",
+    "harvesting_period": "November to February",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Sugarcane",
+    "sowing_period": "October to March",
+    "duration_of_crop": "10-16 months",
+    "harvesting_period": "October to March (next year)",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Jute",
+    "sowing_period": "March to May",
+    "duration_of_crop": "4-6 months",
+    "harvesting_period": "July to September",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Pulses (Lentil)",
+    "sowing_period": "October to November",
+    "duration_of_crop": "3-4 months",
+    "harvesting_period": "February to April",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Mustard",
+    "sowing_period": "October to November",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "March to April",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Cotton",
+    "sowing_period": "May to June",
+    "duration_of_crop": "5-6 months",
+    "harvesting_period": "November to January",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Sorghum (Jowar)",
+    "sowing_period": "June to July",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "October to December",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Groundnut",
+    "sowing_period": "June to July",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "October to November",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Millets (Bajra)",
+    "sowing_period": "June to July",
+    "duration_of_crop": "3-4 months",
+    "harvesting_period": "September to October",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Tobacco",
+    "sowing_period": "July to September",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "November to February",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Tomato",
+    "sowing_period": "August to September",
+    "duration_of_crop": "3-4 months",
+    "harvesting_period": "November to December",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Onion",
+    "sowing_period": "November to December",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "April to May",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Tamarind",
+    "sowing_period": "June to July",
+    "duration_of_crop": "2-3 years",
+    "harvesting_period": "August to September",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Chili",
+    "sowing_period": "August to September",
+    "duration_of_crop": "6-7 months",
+    "harvesting_period": "March to April",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Maize",
+    "sowing_period": "June to July",
+    "duration_of_crop": "3-4 months",
+    "harvesting_period": "October to November",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Tea",
+    "sowing_period": "Throughout the year",
+    "duration_of_crop": "2-3 years",
+    "harvesting_period": "Throughout the year",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Coffee",
+    "sowing_period": "March to June",
+    "duration_of_crop": "3-4 years",
+    "harvesting_period": "November to February",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Potato",
+    "sowing_period": "September to November",
+    "duration_of_crop": "3-4 months",
+    "harvesting_period": "December to March",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Barley",
+    "sowing_period": "October to November",
+    "duration_of_crop": "4-5 months",
+    "harvesting_period": "March to April",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Cucumber",
+    "sowing_period": "February to April",
+    "duration_of_crop": "2-3 months",
+    "harvesting_period": "May to June",
+    "img_url": ""
+  },
+  {
+    "crop_name": "Paddy",
+    "sowing_period": "July to August",
+    "duration_of_crop": "4-6 months",
+    "harvesting_period": "November to December",
+    "img_url": ""
+  }
+]

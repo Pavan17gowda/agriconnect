@@ -1,0 +1,47 @@
+[
+  {
+    "soil_type": "Alluvial soil",
+    "crops_grown": [
+      "Wheat",
+      "Rice",
+      "Sugarcane",
+      "Jute",
+      "Pulses (Lentil)",
+      "Mustard"
+    ]
+  },
+  {
+    "soil_type": "Red soil",
+    "crops_grown": [
+      "Cotton",
+      "Sorghum (Jowar)",
+      "Groundnut",
+      "Millets (Bajra)",
+      "Tobacco",
+      "Pulses (Lentil)",
+      "Maize"
+    ]
+  },
+  {
+    "soil_type": "Black soil",
+    "crops_grown": [
+      "Cotton",
+      "Sorghum (Jowar)",
+      "Millets (Bajra)",
+      "Pulses (Lentil)",
+      "Soybean"
+    ]
+  },
+  {
+    "soil_type": "Loamy soil",
+    "crops_grown": ["Wheat", "Rice", "Maize", "Barley", "Sugarcane"]
+  },
+  {
+    "soil_type": "Sandy loam soil",
+    "crops_grown": ["Groundnut", "Maize", "Potato", "Watermelon", "Cucumber"]
+  },
+  {
+    "soil_type": "Clayey soil",
+    "crops_grown": ["Paddy", "Wheat", "Sugarcane", "Mustard"]
+  }
+]

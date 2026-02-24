@@ -1,0 +1,61 @@
+/api
+  /auth
+    POST /signup
+    POST /signin
+    POST /signout
+    POST /google
+    
+  /user
+    GET /:userId
+    PUT /update/:userId
+    DELETE /delete/:userId
+    GET /users (admin only)
+    
+  /resources
+    /tractors
+      GET /
+      POST /addtractor
+      PUT /:id
+      DELETE /:id
+    /manures
+      GET /
+      POST /addmanure
+      PUT /:id
+      DELETE /:id
+    /nursery
+      GET /
+      POST /addnursery
+      POST /:nurseryId/addcrop
+      PUT /:id
+      DELETE /:id
+      
+  /knowledge
+    /crops
+      GET /
+      GET /:id
+    /soils
+      GET /
+      GET /:id
+    /diseases
+      GET /
+      GET /cropdiseases/:cropId
+    /fertilizers
+      GET /
+      GET /:soilType/:cropName
+    /pesticides
+      GET /
+      GET /:diseaseId/:cropId
+      
+  /bookings
+    POST /new-booking
+    POST /tractorbooking
+    POST /cropbooking
+    GET /bookingsbyuser/:userId
+    PATCH /accept/:bookingId
+    PATCH /reject/:bookingId
+    DELETE /delete/:bookingId
+    
+  /notifications
+    GET /:userId
+    POST /
+    PATCH /:notificationId

@@ -1,0 +1,22 @@
+[
+  {
+    "crop_id": "67323c7799bf9f8e54862ac9",
+    "disease_id": "6749590ad4d17edda77fa985",
+    "pesticide_id": "673de529a4026040e5ee37c6"
+  },
+  {
+    "crop_id": "67323c7799bf9f8e54862ac9",
+    "disease_id": "6749590ad4d17edda77fa985",
+    "pesticide_id": "673de529a4026040e5ee37c7"
+  },
+  {
+    "crop_id": "67323c7799bf9f8e54862ac9",
+    "disease_id": "6749590ad4d17edda77fa99d",
+    "pesticide_id": "673de529a4026040e5ee37c5"
+  },
+  {
+    "crop_id": "67323c7799bf9f8e54862ac9",
+    "disease_id": "6749590ad4d17edda77fa99d",
+    "pesticide_id": "673de529a4026040e5ee37c8"
+  }
+]
