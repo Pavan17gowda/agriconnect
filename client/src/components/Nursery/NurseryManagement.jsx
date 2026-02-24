@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 import AddNurseryForm from "./AddNurseryForm";
 import NurseryCropList from "./NurseryCropList";
-import NurseryList from "./Nurserylist";
+import NurseryList from "./NurseryList";
 import { useSelector } from "react-redux";
 import { toast } from "react-toastify";
 import { GlobalContext } from "../../context/GlobalState";
