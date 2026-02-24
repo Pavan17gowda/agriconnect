@@ -1,13 +1,10 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "demo-key", // ✅ no quotes
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "demo-key",
   authDomain: "reactchat-4b799.firebaseapp.com",
   projectId: "reactchat-4b799",
   storageBucket: "reactchat-4b799.appspot.com",
@@ -15,17 +12,21 @@ const firebaseConfig = {
   appId: "1:875426896938:web:927c558971017e3b1a7753",
 };
 
-// Initialize Firebase only if API key is provided
-let app;
-let auth;
+// Initialize Firebase
+let app = null;
+let auth = null;
+let firebaseEnabled = false;
 
 try {
-  app = initializeApp(firebaseConfig);
-  auth = getAuth(app);
+  if (import.meta.env.VITE_FIREBASE_API_KEY && import.meta.env.VITE_FIREBASE_API_KEY !== "demo-key") {
+    app = initializeApp(firebaseConfig);
+    auth = getAuth(app);
+    firebaseEnabled = true;
+  } else {
+    console.warn("Firebase not configured. Authentication features will be disabled.");
+  }
 } catch (error) {
   console.warn("Firebase initialization failed:", error);
-  // Create mock auth object for development
-  auth = null;
 }
 
-export { app, auth };
+export { app, auth, firebaseEnabled };
